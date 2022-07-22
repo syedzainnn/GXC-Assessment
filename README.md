@@ -24,4 +24,13 @@ Button 3: Inserts a new UI item with a random index at the proper position.
 3. Multiplayer Hyper-Casual Style game
 
 Goal => Control player in a confined space to collect treasure chest. First player to collect 6/11 will win the game.
+Features:
+- Basic Player Controller (Movement + Animations ( Idle & Run)
+- Scoreboard
+- Win/Lose Condition
+- Join/Create multiplayer rooms
+- Syncing player movements, animations etc
+
+Use W/A/S/D Keys to move around the level and rush to collect the chest boxes as fast as you can!
+ 
 
