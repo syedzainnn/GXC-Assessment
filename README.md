@@ -14,9 +14,14 @@ Task/Problem => Create a Camera view controller that has multiple view modes.
 
 2. GUI Control:
 
-Task/Problem: Create a scrollable/auto layout empty UI group panel with 3 control buttons.
+Task/Problem => Create a scrollable/auto layout empty UI group panel with 3 control buttons.
 
 Button 1: Adds 10 random UI items to the group, each one is defined by a random string index.
 Button 2: Reorders UI items by their index in an ascending order.
 Button 3: Inserts a new UI item with a random index at the proper position. 
+
+
+3. Multiplayer Hyper-Casual Style game
+
+Goal => Control player in a confined space to collect treasure chest. First player to collect 6/11 will win the game.
 
